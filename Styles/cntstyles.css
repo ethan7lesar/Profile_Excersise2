@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&family=Titillium+Web:wght@600&display=swap');
+body{
+    background: black !important;
+color: whitesmoke;
+font-family: 'Sedgwick Ave Display', cursive !important;
+font-family: 'Titillium Web', sans-serif !important;
+}
+nav{
+    background: black !important;
+    color: #00FF41 !important;
+}
+
+.navbar-brand{
+    color: #00FF41;
+
+}
+
+.offcanvasDarkNavbarLabel{
+    color: #00FF41 !important;
+}
+
+input{
+    background-color: #00FF41 !important;
+
+}
